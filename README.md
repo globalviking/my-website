@@ -1,8 +1,6 @@
-# The Browser is dead, long live the Browser!
+# This will be my future website
 
-This is the simple app I put together as the demo for [my talk at GOTO Aarhus 2012][1]. To get to any "chapter" just checkout tag xN where N is 1 through 7. So to check out chapter 4:
-
-    % git checkout x4
+This is the simple app Dan North put together as the demo for [his talk at GOTO Aarhus 2012][1]. I am adapting his code to study and build upon to make my website.
 
 To run it you'll need a recent version of node 0.8. I've been using [n][2] so installing is as simple as setting `N_PREFIX` and adding `$N_PREFIX/bin` to your path. Then you run:
 
